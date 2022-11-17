@@ -18,7 +18,7 @@
 <div class="md-form">
 	<div class="col-md-12">
   <textarea type="text" style="text-align: center;" id="lista" class="md-textarea form-control" rows="2"></textarea>
-  <label for="lista">Example : 5437711025954502|01|2023|160 </label>
+  <label for="lista">Example : 379223082401002|06|2023|8038 </label>
 </div>
 </div>
 <center>
